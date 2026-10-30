@@ -1,0 +1,55 @@
+P101,Basmati Rice 1kg,120.00,Food
+P102,Olive Oil 500ml,450.00,Food
+P103,Whole Wheat Bread,45.00,Food
+P104,Organic Honey 250g,180.00,Food
+P105,Green Tea 25 Bags,150.00,Food
+P106,Oatmeal 1kg,220.00,Food
+P107,Almonds 500g,450.00,Food
+P108,Dark Chocolate Bar,99.00,Food
+P109,Apple Cider Vinegar,299.00,Food
+P110,Cashew Nuts 500g,500.00,Food
+P111,Peanut Butter 500g,200.00,Food
+P112,Chia Seeds 250g,160.00,Food
+P113,Walnuts 250g,320.00,Food
+P114,Fruit Jam 500g,110.00,Food
+P115,Corn Flakes 500g,140.00,Food
+P116,Sunflower Oil 1L,175.00,Food
+P117,Iodized Salt 1kg,28.00,Food
+P118,Pasta Macaroni 500g,85.00,Food
+P119,Tomato Ketchup 1kg,130.00,Food
+P120,USB Cable,250.00,Electronics
+P121,Wireless Mouse,650.00,Electronics
+P122,Bluetooth Speaker,1500.00,Electronics
+P123,LED Desk Lamp,800.00,Electronics
+P124,HDMI Cable 2m,350.00,Electronics
+P125,Power Bank 10000mAh,899.00,Electronics
+P126,Wired Earphones,299.00,Electronics
+P127,Laptop Stand,750.00,Electronics
+P128,Smartphone Case,199.00,Electronics
+P129,Keyboard Membrane,550.00,Electronics
+P130,USB Flash Drive 64GB,499.00,Electronics
+P131,Webcam 1080p,1999.00,Electronics
+P132,Mouse Pad XL,399.00,Electronics
+P133,Extension Cord,450.00,Electronics
+P134,Bluetooth Dongle,299.00,Electronics
+P135,Laptop Sleeve,600.00,Electronics
+P136,Screen Cleaner Kit,149.00,Electronics
+P137,OTG Adapter,99.00,Electronics
+P138,Cotton T-Shirt,499.00,Clothing
+P139,Running Shoes,1200.00,Clothing
+P140,Denim Jeans,999.00,Clothing
+P141,Leather Wallet,599.00,Clothing
+P142,Winter Jacket,2499.00,Clothing
+P143,Sneakers,1599.00,Clothing
+P144,Socks 3-Pack,249.00,Clothing
+P145,Baseball Cap,349.00,Clothing
+P146,Hoodie Sweatshirt,1299.00,Clothing
+P147,Formal Trousers,1199.00,Clothing
+P148,Casual Shirt,799.00,Clothing
+P149,Sports Shorts,399.00,Clothing
+P150,Polo T-Shirt,699.00,Clothing
+P151,Track Pants,899.00,Clothing
+P152,Leather Belt,499.00,Clothing
+P153,Sun Hat,299.00,Clothing
+P154,Raincoat,799.00,Clothing
+P155,Swim Shorts,450.00,Clothing
